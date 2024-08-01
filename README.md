@@ -26,7 +26,7 @@ Legal-Link-AI is a FastAPI-based application designed to manage and interact wit
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/harshkalra-ai/Legal-Link-AI.git
+   git clone https://github.com/moogleLabsDev/Legal_Link_AI.git
    cd Legal-Link-AI
    ```
 
